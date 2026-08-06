@@ -1,0 +1,17 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Secrets and Databases (CRITICAL)
+.env
+.env.*
+*.db
+*.sqlite3
+
+# Log files
+*.log
+
+# IDE & OS configuration
+.vscode/
+.idea/
+.DS_Store
